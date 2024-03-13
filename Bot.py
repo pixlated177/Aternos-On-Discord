@@ -24,7 +24,7 @@ if not os.path.exists(os.path.relpath(".env")):
 
 # load environment vars
 load_dotenv()
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("MTIxNzM3MzU5MjQ3NjcxNzA4Nw.GMjmsE.2PD69_62CGVeYb5wT80Uu0PypKFZCcNJNmS_mA")
 
 # setup logger
 logging.basicConfig(format='[%(levelname)s] %(asctime)s - %(message)s',
